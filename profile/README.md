@@ -1,6 +1,6 @@
-## Hi there, we're wellbutteredsoftware
+## Hi there, *I'm* wellbutteredsoftware
 
-*This readme is a WIP, pls ignore for a little while*
+I'm a one-dev team who likes making cool stuff. Usually I work in C or C++, sometimes Python when not low level. But as of recently I've been transitioning to using Rust! :D
 
 <!--
 
