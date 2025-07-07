@@ -2,6 +2,8 @@
 
 I'm a one-dev team who likes making cool stuff. Usually I work in C or C++, sometimes Python when not low level. But as of recently I've been transitioning to using Rust! :D
 
+Around this repo you will mostly find games, partially finished projects, the likes. Feel free to check them out, try them out, maybe even contribute to some!
+
 <!--
 
 **Here are some ideas to get you started:**
